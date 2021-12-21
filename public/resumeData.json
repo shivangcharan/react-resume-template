@@ -2,17 +2,17 @@
   "main": {
     "name": "Shivang Charan",
     "occupation": "Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description": "",
+    "image": "profpiccopy.png",
+    "bio": "Hi! My name is Shivang and I am a Software Engineer. I graduated from the University of Illinois at Urbana-Champaign in 2022 with a B.S. in Computer Engineering. My interests include soccer, cooking, and global travel.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "shivangcharan99@gmail.com",
+    "phone": "",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "",
+      "city": "New York",
+      "state": "New York",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
