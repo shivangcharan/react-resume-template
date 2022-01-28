@@ -10,6 +10,7 @@
     "phone": "",
     "address": {
       "street": "",
+      "college": "UIUC",
       "city": "New York",
       "state": "New York",
       "zip": ""
@@ -45,28 +46,17 @@
       {
         "company": "Target",
         "title": "Software Engineering Intern",
-        "years": "June 2021 – August 2021",
-        "description": "• Engineered full-stack project for the ePick support application to reduce incident resolution time by up to 25% ",
-        "description2": "• Built REST APIs in Kotlin to perform operations such as query from MongoDB, transform data objects, and call other APIs",
-        "description3": "• Designed backend API tests using Groovy to increase project test coverage by 2% and utilized Kubernetes to deploy code ",
-        "description4": "• Created frontend interface in Typescript and React to let team members easily view all ePick configs and ePick available work"
+        "years": "June 2021 – August 2021"
       },
       {
         "company": "Qualcomm",
         "title": "Software Engineering Intern",
-        "years": "June 2020 – August 2020",
-        "description": "• Developed modem simulator features to decrease dependency on physical modems and reduce project lead times by up to 10%",
-        "description2": "• Crafted software that mocked indications, requests, and responses to simulate entire IMS registration procedure",
-        "description3": "• Revamped modem simulator and new hire documentation to streamline Android Telephony team onboarding process",
-        "description4": "• Wrote modem simulator frontend in Python, backend in C, and implemented bindings to deliver customizable virtual modem"
+        "years": "June 2020 – August 2020"
       },
       {
         "company": "Be The Match",
         "title": "Software Engineering Intern",
-        "years": "June 2019 – August 2019",
-        "description": "• Collaborated with CIO, Web, and Marketing teams to design functionality and user interface of 2 iOS mobile applications",
-        "description2": "• Programmed applications using XCode and Swift and utilized MySQL databases to allow for dynamic content delivery",
-        "description3": "• Implemented cellular location services to assist transplant centers in better anticipating the arrival of bone marrow couriers"
+        "years": "June 2019 – August 2019"
       }
     ],
     "skills": [
